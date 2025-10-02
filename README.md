@@ -19,11 +19,12 @@
 
 ## Contact me
 
-- <img src="./assets/icons/gmail.svg" width="20" height="20" /> **Mail:** [joeypeonyyy44@gmail.com](mailto:joeypeonyyy44@gmail.com)  
-- <img src="./assets/icons/facebook.svg" width="20" height="20" /> **Facebook:** [Vũ Hoàng Bảo Châu](https://www.facebook.com/bao.chau.997306)  
-- <img src="./assets/icons/instagram.svg" width="20" height="20" /> **Instagram:** [@joey.peony](https://www.instagram.com/joey.peony/)  
-- <img src="./assets/icons/behance.svg" width="20" height="20" /> **Behance:** [behance.net/joeybaochau](https://www.behance.net/chuchu97)  
-- 📞 **SĐT:** 0397 077 298
+- ![Gmail](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg) **Mail:** [joeypeonyyy44@gmail.com](mailto:joeypeonyyy44@gmail.com)  
+- ![Facebook](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg) **Facebook:** [Vũ Hoàng Bảo Châu](https://www.facebook.com/yourprofile)  
+- ![Instagram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg) **Instagram:** [@joey.peony](https://www.instagram.com/joey.peony)  
+- ![Behance](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg) **Behance:** [behance.net/joeybaochau](https://behance.net/joeybaochau)  
+- ![Phone](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg) **SĐT:** 0397 077 298  
+
 
 ---
 
