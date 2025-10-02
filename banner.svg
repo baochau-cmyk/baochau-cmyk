@@ -1,5 +1,5 @@
 <!--?xml version="1.0" encoding="UTF-8"?-->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" preserveAspectRatio="xMidYMid meet">">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" preserveAspectRatio="xMidYMid meet">
  <style>
     @font-face {
       font-family: 'HelvCustomBold';
@@ -15,36 +15,33 @@
   </style>
 
    <defs>
-     <linearGradient id="textgrad" x1="0" y1="0" x2="1" y2="0">
-       <stop offset="0" stop-color="#f9a8d4"/> <!-- hồng pastel -->
-       <stop offset="1" stop-color="#fef08a"/> <!-- vàng pastel -->
-     </linearGradient>
-   </defs>
+    <linearGradient id="textgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f9a8d4"/> <!-- hồng pastel -->
+      <stop offset="1" stop-color="#fef08a"/> <!-- vàng pastel -->
+    </linearGradient>
+  </defs>
 
-
-
-  <rect width="100%" height="100%" fill="url(#grad)"></rect>
-  <text x="600" y="90" text-anchor="middle" font-family="monospace" font-size="48" >
+  <text x="600" y="90" text-anchor="middle" font-family="monospace" font-size="48">
     <tspan opacity="0">P
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0s" repeatCount="indefinite"></animate>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0s" repeatCount="indefinite"/>
     </tspan>
     <tspan opacity="0">r
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.14s" repeatCount="indefinite"></animate>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.14s" repeatCount="indefinite"/>
     </tspan>
     <tspan opacity="0">o
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.28s" repeatCount="indefinite"></animate>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.28s" repeatCount="indefinite"/>
     </tspan>
     <tspan opacity="0">f
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.42s" repeatCount="indefinite"></animate>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.42s" repeatCount="indefinite"/>
     </tspan>
     <tspan opacity="0">i
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.56s" repeatCount="indefinite"></animate>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.56s" repeatCount="indefinite"/>
     </tspan>
     <tspan opacity="0">l
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.70s" repeatCount="indefinite"></animate>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.70s" repeatCount="indefinite"/>
     </tspan>
     <tspan opacity="0">e
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.84s" repeatCount="indefinite"></animate>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.84s" repeatCount="indefinite"/>
     </tspan>
   </text>
 </svg>
