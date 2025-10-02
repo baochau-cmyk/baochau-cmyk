@@ -19,11 +19,12 @@
 
 ## Contact me
 
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20"/> **Mail:** [joeypeonyyy44@gmail.com](mailto:joeypeonyyy44@gmail.com) 
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="20"/> **Facebook:** [Vũ Hoàng Bảo Châu](https://www.facebook.com/yourprofile)  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="20"/> **Instagram:** [@joey.peony](https://www.instagram.com/joey.peony)  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" width="20"/> **Behance:** [behance.net/joeybaochau](https://behance.net/joeybaochau)  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="20"/> **SĐT:** 0397 077 298  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" style="filter: invert(41%) sepia(96%) saturate(5210%) hue-rotate(309deg) brightness(102%) contrast(101%);"/> **Mail:** [joeypeonyyy44@gmail.com](mailto:joeypeonyyy44@gmail.com)  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="20" style="filter: invert(41%) sepia(96%) saturate(5210%) hue-rotate(309deg) brightness(102%) contrast(101%);"/> **Facebook:** [Vũ Hoàng Bảo Châu](https://www.facebook.com/yourprofile)  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="20" style="filter: invert(41%) sepia(96%) saturate(5210%) hue-rotate(309deg) brightness(102%) contrast(101%);"/> **Instagram:** [@joey.peony](https://www.instagram.com/joey.peony)  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" width="20" style="filter: invert(41%) sepia(96%) saturate(5210%) hue-rotate(309deg) brightness(102%) contrast(101%);"/> **Behance:** [behance.net/joeybaochau](https://behance.net/joeybaochau)  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="20" style="filter: invert(41%) sepia(96%) saturate(5210%) hue-rotate(309deg) brightness(102%) contrast(101%);"/> **SĐT:** 0397 077 298  
+
 
 ---
 
