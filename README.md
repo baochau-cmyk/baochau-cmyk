@@ -2,7 +2,15 @@
   <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/cover.png" alt="cover" width="100%" />
 </p>
 
-<h1 align="center">✨ Welcome to my profile ✨</h1>
+<h1 align="center" style="
+  background: linear-gradient(to right, #ff9a9e, #fad0c4, #fbc2eb, #f6d365, #fda085);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+">
+✨ Welcome to my profile ✨
+</h1>
+
 
 
 ## Thông tin cá nhân
