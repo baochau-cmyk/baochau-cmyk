@@ -19,11 +19,11 @@
 
 ## Contact me
 
-- <img src="https://raw.githubusercontent.com/baochau/baochau/main/gmail.png" width="20" style="vertical-align:middle;"/> [joeypeonyyy44@gmail.com](mailto:joeypeonyyy44@gmail.com)  
-- <img src="https://raw.githubusercontent.com/baochau/baochau/main/facebook.png" width="20" style="vertical-align:middle;"/> [Vũ Hoàng Bảo Châu](https://www.facebook.com/yourprofile)  
-- <img src="https://raw.githubusercontent.com/baochau/baochau/main/instagram.png" width="20" style="vertical-align:middle;"/> [@joey.peony](https://www.instagram.com/joey.peony)  
-- <img src="https://raw.githubusercontent.com/baochau/baochau/main/behance.png" width="20" style="vertical-align:middle;"/> [behance.net/joeybaochau](https://behance.net/joeybaochau)  
-- <img src="https://raw.githubusercontent.com/baochau/baochau/main/phone.png" width="20" style="vertical-align:middle;"/> 0397 077 298  
+- <img src="https://raw.githubusercontent.com/baochau-cmyk/main/gmail.png" width="20" style="vertical-align:middle;"/> [joeypeonyyy44@gmail.com](mailto:joeypeonyyy44@gmail.com)  
+- <img src="https://raw.githubusercontent.com/baochau-cmyk/main/facebook.png" width="20" style="vertical-align:middle;"/> [Vũ Hoàng Bảo Châu](https://www.facebook.com/yourprofile)  
+- <img src="https://raw.githubusercontent.com/baochau-cmyk/main/instagram.png" width="20" style="vertical-align:middle;"/> [@joey.peony](https://www.instagram.com/joey.peony)  
+- <img src="https://raw.githubusercontent.com/baochau-cmyk/main/behance.png" width="20" style="vertical-align:middle;"/> [behance.net/joeybaochau](https://behance.net/joeybaochau)  
+- <img src="https://raw.githubusercontent.com/baochau-cmyk/main/phone.png" width="20" style="vertical-align:middle;"/> 0397 077 298  
 
  
 ---
