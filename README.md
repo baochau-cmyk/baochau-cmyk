@@ -19,10 +19,12 @@
 
 ## Contact me
 
-- <img src="https://img.shields.io/badge/-Phone-25D366?style=flat&logo=whatsapp&logoColor=white" height="20"/> **SĐT:** 0397 077 298  
-- <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="20"/> **Mail:** [joeypeonyyy44@gmail.com](mailto:joeypeonyyy44@gmail.com)  
-- <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="20"/> **Facebook:** [Vũ Hoàng Bảo Châu](https://www.facebook.com/bao.chau.997306)  
-- <img src="https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white" height="20"/> **Behance:** [behance.net/yourprofile](https://www.behance.net/yourprofile)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" height="20"/> **Mail:** [joeypeonyyy44@gmail.com](mailto:joeypeonyyy44@gmail.com)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20" height="20"/> **Facebook:** [Vũ Hoàng Bảo Châu](https://www.facebook.com/bao.chau.997306)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="20" height="20"/> **Instagram:** [@your_instagram](https://www.instagram.com/your_instagram)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="20" height="20"/> **Behance:** [behance.net/yourprofile](https://www.behance.net/yourprofile)  
+- <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="20" height="20"/> **SĐT:** 0397 077 298
+
 
 ---
 
