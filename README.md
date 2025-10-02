@@ -3,15 +3,8 @@
 </p>
 
 <p align="center">
-  <svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          style="font-size: 36px; font-family: Arial, sans-serif; fill:#ff69b4; opacity:0;">
-      ✨ Welcome to my profile ✨
-      <animate attributeName="opacity" from="0" to="1" dur="3s" fill="freeze" />
-    </text>
-  </svg>
+  <img src="./banner.svg" alt="Profile banner" />
 </p>
-
 
 
 
