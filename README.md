@@ -5,13 +5,9 @@
 <h1 align="center">✨ Welcome to my profile ✨</h1>
 
 
-# N23DCPT008-PROFILE
-# Vũ Hoàng Bảo Châu
-
----
-
 ## Thông tin cá nhân
 
+- Tên: Vũ Hoàng Bảo Châu
 - Sinh viên ngành Công nghệ Đa phương tiện, chuyên ngành Thiết kế Đa phương tiện  
 - Học viện Công nghệ Bưu chính Viễn thông, Cơ sở quận 9, TP. Hồ Chí Minh  
 
@@ -71,7 +67,7 @@
 - Làm ban cán sự lớp tại cấp Trung học cơ sở và Trung học phổ thông
 - Tham gia cuộc thi STEM tại cấp THPT và đạt giải Khuyến Khích nhóm trị giá 1.500.000 đồng 
 - Kinh nghiệm làm việc nhóm trong các môn học từ Trung học cơ sở, Trung học phổ thông đến Đại học, đặc biệt là vai trò điều phối, quản lý và phê duyệt nội dung.
-- Từng tham gia với vai trò sản xuất dự án phim ngắn "TRẠM" trong cuộc thi "Phim ngắn 14 ngày" - Contest PN14N 2024.
+- Từng tham gia dự án phim ngắn "TRẠM" với vai trò sản xuất trong cuộc thi "Phim ngắn 14 ngày" - Contest PN14N 2024.
 ---
 
 ## Mục tiêu nghề nghiệp
