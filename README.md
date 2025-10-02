@@ -19,12 +19,11 @@
 
 ## Contact me
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" height="20"/> **Mail:** [joeypeonyyy44@gmail.com](mailto:joeypeonyyy44@gmail.com)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20" height="20"/> **Facebook:** [Vũ Hoàng Bảo Châu](https://www.facebook.com/bao.chau.997306)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="20" height="20"/> **Instagram:** [@your_instagram](https://www.instagram.com/your_instagram)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="20" height="20"/> **Behance:** [behance.net/yourprofile](https://www.behance.net/yourprofile)  
-- <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="20" height="20"/> **SĐT:** 0397 077 298
-
+- <img src="./assets/icons/gmail.svg" width="20" height="20" /> **Mail:** [joeypeonyyy44@gmail.com](mailto:joeypeonyyy44@gmail.com)  
+- <img src="./assets/icons/facebook.svg" width="20" height="20" /> **Facebook:** [Vũ Hoàng Bảo Châu](https://www.facebook.com/bao.chau.997306)  
+- <img src="./assets/icons/instagram.svg" width="20" height="20" /> **Instagram:** [@joey.peony](https://www.instagram.com/joey.peony/)  
+- <img src="./assets/icons/behance.svg" width="20" height="20" /> **Behance:** [behance.net/joeybaochau](https://www.behance.net/chuchu97)  
+- 📞 **SĐT:** 0397 077 298
 
 ---
 
