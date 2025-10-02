@@ -19,11 +19,11 @@
 
 ## Contact me
 
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" style="filter: invert(81%) sepia(17%) saturate(537%) hue-rotate(290deg) brightness(102%) contrast(95%);"/> **Mail:** [joeypeonyyy44@gmail.com](mailto:joeypeonyyy44@gmail.com)  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="20" style="filter: invert(81%) sepia(17%) saturate(537%) hue-rotate(290deg) brightness(102%) contrast(95%);"/> **Facebook:** [Vũ Hoàng Bảo Châu](https://www.facebook.com/yourprofile)  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="20" style="filter: invert(81%) sepia(17%) saturate(537%) hue-rotate(290deg) brightness(102%) contrast(95%);"/> **Instagram:** [@joey.peony](https://www.instagram.com/joey.peony)  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" width="20" style="filter: invert(81%) sepia(17%) saturate(537%) hue-rotate(290deg) brightness(102%) contrast(95%);"/> **Behance:** [behance.net/joeybaochau](https://behance.net/joeybaochau)  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/phone.svg" width="20" style="filter: invert(81%) sepia(17%) saturate(537%) hue-rotate(290deg) brightness(102%) contrast(95%);"/> **SĐT:** 0397 077 298  
+- <img src="icons/gmail.png" width="20" height="20" style="vertical-align:middle;"/> [joeypeonyyy44@gmail.com](mailto:joeypeonyyy44@gmail.com)  
+- <img src="icons/facebook.png" width="20" height="20" style="vertical-align:middle;"/> [Vũ Hoàng Bảo Châu](https://www.facebook.com/yourprofile)  
+- <img src="icons/instagram.png" width="20" height="20" style="vertical-align:middle;"/> [@joey.peony](https://www.instagram.com/joey.peony)  
+- <img src="icons/behance.png" width="20" height="20" style="vertical-align:middle;"/> [behance.net/joeybaochau](https://behance.net/joeybaochau)  
+- <img src="icons/phone.png" width="20" height="20" style="vertical-align:middle;"/> 0397 077 298  
  
 ---
 
