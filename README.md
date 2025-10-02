@@ -2,14 +2,16 @@
   <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/cover.png" alt="cover" width="100%" />
 </p>
 
-<h1 align="center" style="
-  background: linear-gradient(to right, #ff9a9e, #fad0c4, #fbc2eb, #f6d365, #fda085);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  display: inline-block;
-">
-✨ Welcome to my profile ✨
-</h1>
+<p align="center">
+  <svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-size: 36px; font-family: Arial, sans-serif; fill:#ff69b4; opacity:0;">
+      ✨ Welcome to my profile ✨
+      <animate attributeName="opacity" from="0" to="1" dur="3s" fill="freeze" />
+    </text>
+  </svg>
+</p>
+
 
 
 
