@@ -10,7 +10,7 @@
 
 ## Thông tin cá nhân
 
-- Tên: Vũ Hoàng Bảo Châu
+- Họ và tên: Vũ Hoàng Bảo Châu
 - Sinh viên ngành Công nghệ Đa phương tiện, chuyên ngành Thiết kế Đa phương tiện  
 - Học viện Công nghệ Bưu chính Viễn thông, Cơ sở quận 9, TP. Hồ Chí Minh  
 
