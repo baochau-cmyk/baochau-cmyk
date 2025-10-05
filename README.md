@@ -54,7 +54,7 @@
 
 ## Dự án cá nhân
 Gian hàng Nông sản và thực phẩm chế biến hữu cơ - Thực hiện trên 3dsmax
-- <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/3dpj.png"
+- <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/3dpj.png"/>
 
 ## Sở thích
 
