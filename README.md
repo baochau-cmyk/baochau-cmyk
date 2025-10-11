@@ -48,15 +48,15 @@
 
 ## Kỹ Năng Mềm (Soft Skills)
 
-Dưới đây là biểu đồ thể hiện mức độ tự đánh giá các kỹ năng mềm:
+## Kỹ Năng Mềm (Soft Skills) ✨
 
-| Kỹ Năng | Tỷ Lệ | Thanh Tiến Trình |
-| :--- | :---: | :--- |
-| **Quản lý thời gian** ⏱️ | 30% | <div style="width: 100%; background-color: #f1f1f1; border-radius: 4px; overflow: hidden;"><div style="width: 30%; background-color: #FFDFE3; color: #333; height: 20px; text-align: right; line-height: 20px; padding-right: 5px; font-weight: bold; border-radius: 4px;"></div></div> |
-| **Giao tiếp** 💬 | 40% | <div style="width: 100%; background-color: #f1f1f1; border-radius: 4px; overflow: hidden;"><div style="width: 40%; background-color: #CCF6FF; color: #333; height: 20px; text-align: right; line-height: 20px; padding-right: 5px; font-weight: bold; border-radius: 4px;"></div></div> |
-| **Ngoại ngữ** 🌍 | 50% | <div style="width: 100%; background-color: #f1f1f1; border-radius: 4px; overflow: hidden;"><div style="width: 50%; background-color: #C7EF8E; color: #333; height: 20px; text-align: right; line-height: 20px; padding-right: 5px; font-weight: bold; border-radius: 4px;"></div></div> |
-| **Làm việc nhóm** 🤝 | 60% | <div style="width: 100%; background-color: #f1f1f1; border-radius: 4px; overflow: hidden;"><div style="width: 60%; background-color: #FF71DA; color: #333; height: 20px; text-align: right; line-height: 20px; padding-right: 5px; font-weight: bold; border-radius: 4px;"></div></div> |
-| **Sáng tạo** ✨ | 70% | <div style="width: 100%; background-color: #f1f1f1; border-radius: 4px; overflow: hidden;"><div style="width: 70%; background-color: #0066FF; color: #fff; height: 20px; text-align: right; line-height: 20px; padding-right: 5px; font-weight: bold; border-radius: 4px;"></div></div> |
+| Kỹ Năng | Thanh Tiến Trình |
+| :--- | :--- |
+| **Quản lý thời gian** ⏱️ | <div style="width: 100%; height: 25px; background-color: #333; border-radius: 9999px;"><div style="width: 30%; height: 100%; background-color: #FFDFE3; border-radius: 9999px; display: flex; align-items: center;"><span style="color: #000; font-weight: bold; margin-left: auto; margin-right: 10px; font-size: 14px;">30%</span></div></div> |
+| **Giao tiếp** 💬 | <div style="width: 100%; height: 25px; background-color: #333; border-radius: 9999px;"><div style="width: 40%; height: 100%; background-color: #CCF6FF; border-radius: 9999px; display: flex; align-items: center;"><span style="color: #000; font-weight: bold; margin-left: auto; margin-right: 10px; font-size: 14px;">40%</span></div></div> |
+| **Ngoại ngữ** 🌍 | <div style="width: 100%; height: 25px; background-color: #333; border-radius: 9999px;"><div style="width: 50%; height: 100%; background-color: #C7EF8E; border-radius: 9999px; display: flex; align-items: center;"><span style="color: #000; font-weight: bold; margin-left: auto; margin-right: 10px; font-size: 14px;">50%</span></div></div> |
+| **Làm việc nhóm** 🤝 | <div style="width: 100%; height: 25px; background-color: #333; border-radius: 9999px;"><div style="width: 60%; height: 100%; background-color: #FF71DA; border-radius: 9999px; display: flex; align-items: center;"><span style="color: #fff; font-weight: bold; margin-left: auto; margin-right: 10px; font-size: 14px;">60%</span></div></div> |
+| **Sáng tạo** ✨ | <div style="width: 100%; height: 25px; background-color: #333; border-radius: 9999px;"><div style="width: 70%; height: 100%; background-color: #0066FF; border-radius: 9999px; display: flex; align-items: center;"><span style="color: #fff; font-weight: bold; margin-left: auto; margin-right: 10px; font-size: 14px;">70%</span></div></div> |
 
 ### Ngoài ra còn có kiến thức về:
 - Công cụ đồ họa: Adobe Illustrator, Adobe Photoshop, 3dsmax, Figma 
