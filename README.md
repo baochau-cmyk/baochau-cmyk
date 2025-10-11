@@ -138,4 +138,4 @@ pie
 
 ---
 
-Cảm ơn bạn đã dành thời gian tham khảo hồ sơ của tôi. Rất mong được hợp tác và phát triển cùng các bạn trong tương lai.
+Cảm ơn bạn đã dành thời gian tham khảo hồ sơ của mình. Rất mong được hợp tác và phát triển cùng các bạn trong tương lai.
