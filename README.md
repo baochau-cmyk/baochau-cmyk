@@ -60,7 +60,7 @@ gantt
     Ngoại ngữ      : done, a3, 0, 50
     Giao tiếp      : done, a4, 0, 40
     Quản lý thời gian : done, a5, 0, 30
-
+```
 ### Ngoài ra còn có kiến thức về:
 - Công cụ đồ họa: Adobe Illustrator, Adobe Photoshop, 3dsmax, Figma 
 - Kiến thức nền tảng chuyên ngành: Branding Identity  
