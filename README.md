@@ -46,6 +46,51 @@
 | Tin học văn phòng            | ⭐⭐⭐☆☆           |
 | Làm việc nhóm                | ⭐⭐⭐⭐☆           |
 
+<div align="center">
+
+<!-- Giao tiếp -->
+<div style="margin: 10px 0; text-align: left; width: 80%;">
+  <b>Giao tiếp</b> (40%)
+  <div style="background-color:#eee; border-radius: 10px; height: 20px; width: 100%;">
+    <div style="background-color:#FFD1F3; height: 20px; width:40%; border-radius: 10px;"></div>
+  </div>
+</div>
+
+<!-- Ngoại ngữ -->
+<div style="margin: 10px 0; text-align: left; width: 80%;">
+  <b>Ngoại ngữ</b> (50%)
+  <div style="background-color:#eee; border-radius: 10px; height: 20px; width: 100%;">
+    <div style="background-color:#CCF6FF; height: 20px; width:50%; border-radius: 10px;"></div>
+  </div>
+</div>
+
+<!-- Làm việc nhóm -->
+<div style="margin: 10px 0; text-align: left; width: 80%;">
+  <b>Làm việc nhóm</b> (60%)
+  <div style="background-color:#eee; border-radius: 10px; height: 20px; width: 100%;">
+    <div style="background-color:#C7EF8E; height: 20px; width:60%; border-radius: 10px;"></div>
+  </div>
+</div>
+
+<!-- Quản lý thời gian -->
+<div style="margin: 10px 0; text-align: left; width: 80%;">
+  <b>Quản lý thời gian</b> (30%)
+  <div style="background-color:#eee; border-radius: 10px; height: 20px; width: 100%;">
+    <div style="background-color:#FF71DA; height: 20px; width:30%; border-radius: 10px;"></div>
+  </div>
+</div>
+
+<!-- Sáng tạo -->
+<div style="margin: 10px 0; text-align: left; width: 80%;">
+  <b>Sáng tạo</b> (70%)
+  <div style="background-color:#eee; border-radius: 10px; height: 20px; width: 100%;">
+    <div style="background-color:#0066FF; height: 20px; width:70%; border-radius: 10px;"></div>
+  </div>
+</div>
+
+</div>
+
+
 ### Ngoài ra còn có kiến thức về:
 - Công cụ đồ họa: Adobe Illustrator, Adobe Photoshop, 3dsmax, Figma 
 - Kiến thức nền tảng chuyên ngành: Branding Identity  
