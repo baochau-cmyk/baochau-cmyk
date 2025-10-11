@@ -59,7 +59,6 @@ config:
         pie5: "#0066FF"
 ---
 pie
-    title Điểm Kỹ Năng Mềm (Thang điểm 100)
     "Ngoại ngữ (25%)" : 25
     "Sáng tạo (25%)" : 25
     "Làm việc nhóm (20%)" : 20
