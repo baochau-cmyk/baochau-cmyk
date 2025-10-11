@@ -70,12 +70,12 @@ pie
   ![Branding Identity](https://img.shields.io/badge/Branding%20Identity-E73E8A?style=flat&logo=handshake&logoColor=white)
 
 
-## Dự án cá nhân
+## Dự án cá nhân (Personal Project)
 
 <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/3dpj-1.png"/>
 <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/3dpj.png"/>
 
-## Dự án nhóm
+## Dự án nhóm (Group Project)
 
    ### Đồ án kết thúc học phần Thiết kế hình động
   
