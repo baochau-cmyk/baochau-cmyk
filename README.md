@@ -50,6 +50,25 @@
 
 ```mermaid
 pie
+    "Ngoại ngữ (25%)" : 25
+    "Sáng tạo (25%)" : 25
+    "Làm việc nhóm (20%)" : 20
+    "Giao tiếp (15%)" : 15
+    "Quản lý thời gian (15%)" : 15
+```
+## 🎯 Kỹ Năng Mềm (Dạng Sơ Đồ Tròn, Màu Custom)
+
+```mermaid
+---
+config: 
+    themeVariables:
+        pie1: "#FFDFE3" 
+        pie2: "#CCF6FF" 
+        pie3: "#C7EF8E" 
+        pie4: "#FF71DA" 
+        pie5: "#0066FF"
+---
+pie
     title Điểm Kỹ Năng Mềm (Thang điểm 100)
     "Ngoại ngữ (50%)" : 50
     "Sáng tạo (70%)" : 70
@@ -57,7 +76,6 @@ pie
     "Giao tiếp (40%)" : 40
     "Quản lý thời gian (30%)" : 30
 ```
-
 ### Ngoài ra còn có kiến thức về:
 - Công cụ đồ họa: Adobe Illustrator, Adobe Photoshop, 3dsmax, Figma 
 - Kiến thức nền tảng chuyên ngành: Branding Identity  
