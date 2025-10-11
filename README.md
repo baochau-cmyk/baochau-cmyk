@@ -71,6 +71,20 @@ pie
 
 ---
 
+### 📚 Ngoài ra còn có kiến thức về:
+
+#### Công cụ đồ họa và thiết kế
+- Công cụ đồ họa: 
+  ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white) 
+  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) 
+  ![3ds Max](https://img.shields.io/badge/3ds%20Max-000000?style=flat&logo=autodesk&logoColor=white) 
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+#### Kiến thức nền tảng chuyên ngành
+- Kiến thức nền tảng:
+  ![Branding Identity](https://img.shields.io/badge/Branding%20Identity-E73E8A?style=flat&logo=handshake&logoColor=white)
+---
+
 ## Dự án cá nhân
 Gian hàng Nông sản và thực phẩm chế biến hữu cơ - Thực hiện trên 3dsmax
 - <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/3dpj.png"/>
