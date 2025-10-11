@@ -49,16 +49,6 @@
 ## 🎯 Kỹ Năng Mềm (Dạng Sơ Đồ Tròn)
 
 ```mermaid
-pie
-    "Ngoại ngữ (25%)" : 25
-    "Sáng tạo (25%)" : 25
-    "Làm việc nhóm (20%)" : 20
-    "Giao tiếp (15%)" : 15
-    "Quản lý thời gian (15%)" : 15
-```
-## 🎯 Kỹ Năng Mềm (Dạng Sơ Đồ Tròn, Màu Custom)
-
-```mermaid
 ---
 config: 
     themeVariables:
