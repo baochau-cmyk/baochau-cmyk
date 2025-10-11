@@ -113,4 +113,20 @@ Gian hàng Nông sản và thực phẩm chế biến hữu cơ - Thực hiện 
 - 🐾 Trở thành **Tình nguyện viên** của tổ chức bảo vệ động vật hoang dã.
 ---
 
+---
+
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baochau-cmyk&show_icons=true&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baochau-cmyk&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baochau-cmyk&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### ✨ Quote
+
+> “If I get up every day with the optimism that I have the capacity for growth, then that’s success for me.” — Paula Scher
+
+---
+
 Cảm ơn bạn đã dành thời gian tham khảo hồ sơ của tôi. Rất mong được hợp tác và phát triển cùng các bạn trong tương lai.
