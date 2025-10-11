@@ -10,7 +10,7 @@
 ## Thông tin cá nhân
 
 - Xin chào, mình là Bảo Châu (Joey)
-- Mình là sinh viên chuyên ngành Thiết kế Đa phương tiện ngành Công nghệ Đa phương tiện
+- Mình là sinh viên chuyên ngành Thiết kế Đa phương tiện
 - Theo học tại Học viện Công nghệ Bưu chính Viễn thông, Cơ sở quận 9, TP. Hồ Chí Minh  
 
 --- 
