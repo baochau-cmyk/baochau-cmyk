@@ -46,18 +46,16 @@
 | Tin học văn phòng            | ⭐⭐⭐☆☆           |
 | Làm việc nhóm                | ⭐⭐⭐⭐☆           |
 
-## 📊 Kỹ Năng Mềm (Dạng Sơ Đồ Cột Ngang)
+## 🎯 Kỹ Năng Mềm (Dạng Sơ Đồ Tròn)
 
 ```mermaid
 pie
-    title Phân bổ Kỹ Năng (Tổng 100%)
-    "Ngoại ngữ" : 25
-    "Sáng tạo" : 25
-    "Làm việc nhóm" : 20
-    "Giao tiếp" : 15
-    "Quản lý thời gian" : 15
-**Lưu ý:** Đây chỉ là một ví dụ về phân bổ để tổng là 100%. Nếu bạn muốn sử dụng tỷ lệ này, hãy thay thế khối code này.
-
+    title Điểm Kỹ Năng Mềm (Thang điểm 100)
+    "Ngoại ngữ (50%)" : 50
+    "Sáng tạo (70%)" : 70
+    "Làm việc nhóm (60%)" : 60
+    "Giao tiếp (40%)" : 40
+    "Quản lý thời gian (30%)" : 30
 ```
 
 ### Ngoài ra còn có kiến thức về:
