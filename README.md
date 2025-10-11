@@ -6,13 +6,12 @@
   <img src="./banner.svg" alt="Profile banner" />
 </p>
 
-Xin chào, mình là Bảo Châu (Joey)
 
 ## Thông tin cá nhân
 
-- Họ và tên: Vũ Hoàng Bảo Châu
-- Sinh viên ngành Công nghệ Đa phương tiện, chuyên ngành Thiết kế Đa phương tiện  
-- Học viện Công nghệ Bưu chính Viễn thông, Cơ sở quận 9, TP. Hồ Chí Minh  
+- Xin chào, mình là Bảo Châu (Joey)
+- Mình là sinh viên chuyên ngành Thiết kế Đa phương tiện ngành Công nghệ Đa phương tiện
+- Theo học tại Học viện Công nghệ Bưu chính Viễn thông, Cơ sở quận 9, TP. Hồ Chí Minh  
 
 --- 
 
@@ -72,8 +71,24 @@ pie
 ---
 
 ## Dự án cá nhân
-Gian hàng Nông sản và thực phẩm chế biến hữu cơ - Thực hiện trên 3dsmax
+
+- <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/3dpj-1.png"/>
+- <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/3dpj-2.png"/>
+- <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/3dpj-3.png"/>
 - <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/3dpj.png"/>
+
+## Dự án nhóm
+
+1. Đồ án kết thúc học phần Thiết kế hình động
+   Vai trò: Character Design
+- <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/hinhdong.png"/>
+- Xem sản phẩm tại đây: [Thiết kế hình động](https://www.facebook.com/bao.chau.997306/videos/437898679390990)
+
+2. Đồ án kết thúc học phần Dựng phim, audio phi tuyến tính
+   Say you do - Tiên Tiên (MV Remake)
+   Vai trò: Script writer, Director, Art Director, Camera crew, Stylist
+- <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/thumb1.png"/>
+- Xem sản phẩm tại đây: [Say you do remake](https://www.facebook.com/bao.chau.997306/videos/726893959906067)
 
 
 ## ✨ Sở Thích & Quan Điểm
