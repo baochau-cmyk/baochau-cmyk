@@ -49,18 +49,17 @@
 ## 📊 Kỹ Năng Mềm (Dạng Sơ Đồ Cột Ngang)
 
 ```mermaid
-gantt
-    dateFormat  X
-    axisFormat %
-    title Mức độ Tự Đánh Giá Kỹ Năng Mềm
+pie
+    title Phân bổ Kỹ Năng (Tổng 100%)
+    "Ngoại ngữ" : 25
+    "Sáng tạo" : 25
+    "Làm việc nhóm" : 20
+    "Giao tiếp" : 15
+    "Quản lý thời gian" : 15
+**Lưu ý:** Đây chỉ là một ví dụ về phân bổ để tổng là 100%. Nếu bạn muốn sử dụng tỷ lệ này, hãy thay thế khối code này.
 
-    section Kỹ Năng Mềm
-    Sáng tạo       : done, a1, 0, 70
-    Làm việc nhóm  : done, a2, 0, 60
-    Ngoại ngữ      : done, a3, 0, 50
-    Giao tiếp      : done, a4, 0, 40
-    Quản lý thời gian : done, a5, 0, 30
 ```
+
 ### Ngoài ra còn có kiến thức về:
 - Công cụ đồ họa: Adobe Illustrator, Adobe Photoshop, 3dsmax, Figma 
 - Kiến thức nền tảng chuyên ngành: Branding Identity  
