@@ -6,7 +6,7 @@
   <img src="./banner.svg" alt="Profile banner" />
 </p>
 
-
+Xin chào, mình là Bảo Châu (Joey)
 
 ## Thông tin cá nhân
 
