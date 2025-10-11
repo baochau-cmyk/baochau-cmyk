@@ -121,6 +121,43 @@ Gian hàng Nông sản và thực phẩm chế biến hữu cơ - Thực hiện 
 - Thành lập Agency về Branding
 - Tình nguyện viên của tổ chức bảo vệ động vật hoang dã
 
+
+
+---
+
+## ✨ Sở Thích & Quan Điểm
+
+> Khám phá chiều sâu của Sáng tạo, Thẩm mỹ và Tư duy Chiến lược.
+
+| Chủ đề | Hoạt động |
+| :--- | :--- |
+| **🎨 Sáng tạo & Thẩm mỹ** | Xem các dự án thiết kế chuyên sâu. Đến các triển lãm nghệ thuật & tham gia workshop thiết kế. |
+| **🧠 Học hỏi & Tư duy** | Đọc phân tích về các case study Branding/Marketing. Nghiên cứu phát triển Bộ nhận diện thương hiệu. Nghe podcast/Youtube về giáo dục, tài chính, tư duy (VIETSUCCESS, Vietcetera). |
+| **🧘 Giải trí & Cảm hứng** | Đọc thơ, viết lách, vẽ tranh, nghe nhạc (cổ điển/Jazz). Xem video đáng yêu về động vật. |
+
+---
+
+## 🚀 Trải Nghiệm Nổi Bật
+
+| Lĩnh vực | Vai trò & Thành tựu |
+| :--- | :--- |
+| **🎬 Sản xuất Dự án** | **Sản xuất** dự án phim ngắn "TRẠM" (Contest PN14N 2024). |
+| **🏆 Lãnh đạo & Giải thưởng** | Đạt giải Khuyến Khích nhóm cuộc thi **STEM** cấp THPT (Trị giá 1.500.000 VNĐ). Từng là Ban cán sự lớp THCS & THPT. |
+| **🤝 Kỹ năng Teamwork** | **Điều phối, Quản lý & Phê duyệt Nội dung** trong các dự án học thuật (THCS - ĐH). |
+
+---
+
+## 🌟 Mục Tiêu Nghề Nghiệp
+
+### Ngắn hạn (Phát triển Cá nhân)
+- 📈 Không ngừng trau dồi kỹ năng, nâng cao **Tư duy Thiết kế** và cập nhật xu hướng thời đại.
+- 🎓 Lấy thêm **bằng Cử nhân Marketing** và mở mang tầm nhìn qua việc đi **Du học**.
+
+### Dài hạn (Thành tựu & Đóng góp)
+- 🏅 Trở thành **Branding Identity Designer có uy tín**, tham gia nhiều dự án lớn.
+- 🏢 Ước mơ được làm việc tại **Vinamilk** hoặc **Thành lập Agency** chuyên về Branding.
+- 🌱 Dùng kỹ năng để **đóng góp vào các dự án cộng đồng** & chia sẻ kiến thức nghề nghiệp.
+- 🐾 Trở thành **Tình nguyện viên** của tổ chức bảo vệ động vật hoang dã.
 ---
 
 Cảm ơn bạn đã dành thời gian tham khảo hồ sơ của tôi. Rất mong được hợp tác và phát triển cùng các bạn trong tương lai.
