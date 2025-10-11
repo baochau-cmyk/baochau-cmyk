@@ -60,11 +60,11 @@ config:
 ---
 pie
     title Điểm Kỹ Năng Mềm (Thang điểm 100)
-    "Ngoại ngữ (50%)" : 50
-    "Sáng tạo (70%)" : 70
-    "Làm việc nhóm (60%)" : 60
-    "Giao tiếp (40%)" : 40
-    "Quản lý thời gian (30%)" : 30
+    "Ngoại ngữ (25%)" : 25
+    "Sáng tạo (25%)" : 25
+    "Làm việc nhóm (20%)" : 20
+    "Giao tiếp (15%)" : 15
+    "Quản lý thời gian (15%)" : 15
 ```
 ### Ngoài ra còn có kiến thức về:
 - Công cụ đồ họa: Adobe Illustrator, Adobe Photoshop, 3dsmax, Figma 
