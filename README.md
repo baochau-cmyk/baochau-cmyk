@@ -46,38 +46,20 @@
 | Tin học văn phòng            | ⭐⭐⭐☆☆           |
 | Làm việc nhóm                | ⭐⭐⭐⭐☆           |
 
-## Kỹ Năng Mềm (Soft Skills)
+## 📊 Kỹ Năng Mềm (Dạng Sơ Đồ Cột Ngang)
 
-## Kỹ Năng Mềm (Soft Skills) ✨
+```mermaid
+gantt
+    dateFormat  X
+    axisFormat %
+    title Mức độ Tự Đánh Giá Kỹ Năng Mềm
 
-## Kỹ Năng Mềm (Soft Skills) ✨
-
-## Kỹ Năng Mềm (Soft Skills) ✨
-
-<p style="font-weight: bold;">Quản lý thời gian ⏱️ (30%)</p>
-<div style="width: 100%; height: 20px; background-color: #333; border-radius: 4px;">
-    <div style="width: 30%; height: 100%; background-color: #FFDFE3; border-radius: 4px;"></div>
-</div>
-
-<p style="font-weight: bold;">Giao tiếp 💬 (40%)</p>
-<div style="width: 100%; height: 20px; background-color: #333; border-radius: 4px;">
-    <div style="width: 40%; height: 100%; background-color: #CCF6FF; border-radius: 4px;"></div>
-</div>
-
-<p style="font-weight: bold;">Ngoại ngữ 🌍 (50%)</p>
-<div style="width: 100%; height: 20px; background-color: #333; border-radius: 4px;">
-    <div style="width: 50%; height: 100%; background-color: #C7EF8E; border-radius: 4px;"></div>
-</div>
-
-<p style="font-weight: bold;">Làm việc nhóm 🤝 (60%)</p>
-<div style="width: 100%; height: 20px; background-color: #333; border-radius: 4px;">
-    <div style="width: 60%; height: 100%; background-color: #FF71DA; border-radius: 4px;"></div>
-</div>
-
-<p style="font-weight: bold;">Sáng tạo ✨ (70%)</p>
-<div style="width: 100%; height: 20px; background-color: #333; border-radius: 4px;">
-    <div style="width: 70%; height: 100%; background-color: #0066FF; border-radius: 4px;"></div>
-</div>
+    section Kỹ Năng Mềm
+    Sáng tạo       : done, a1, 0, 70
+    Làm việc nhóm  : done, a2, 0, 60
+    Ngoại ngữ      : done, a3, 0, 50
+    Giao tiếp      : done, a4, 0, 40
+    Quản lý thời gian : done, a5, 0, 30
 
 ### Ngoài ra còn có kiến thức về:
 - Công cụ đồ họa: Adobe Illustrator, Adobe Photoshop, 3dsmax, Figma 
