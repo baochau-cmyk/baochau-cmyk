@@ -22,8 +22,6 @@ Xin chào, mình là Bảo Châu (Joey)
 - <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/facebook.png" width="20" style="vertical-align:middle;"/> [Bảo Châu](https://www.facebook.com/bao.chau.997306/)  
 - <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/instagram.png" width="20" style="vertical-align:middle;"/> [@joey.peony](https://www.instagram.com/joey.peony)  
 - <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/behance.png" width="20" style="vertical-align:middle;"/> [behance.net/joeybaochau](https://www.behance.net/chuchu97)  
-- <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/phone.png" width="20" style="vertical-align:middle;"/> 0397 077 298  
-
  
 ---
 
