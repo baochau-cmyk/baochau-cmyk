@@ -46,44 +46,17 @@
 | Tin học văn phòng            | ⭐⭐⭐☆☆           |
 | Làm việc nhóm                | ⭐⭐⭐⭐☆           |
 
-<!-- Soft Skills Bar Chart (SVG version, fully compatible with GitHub README) -->
-<svg width="500" height="220" xmlns="http://www.w3.org/2000/svg">
+## Kỹ Năng Mềm (Soft Skills)
 
-  <!-- Title -->
-  <text x="10" y="20" font-size="18" font-weight="bold" fill="#333">Kỹ năng mềm</text>
+Dưới đây là biểu đồ thể hiện mức độ tự đánh giá các kỹ năng mềm:
 
-  <!-- Quản lý thời gian (30%) -->
-  <rect x="10" y="40" width="450" height="20" fill="#eee" rx="5"/>
-  <rect x="10" y="40" width="135" height="20" fill="#FF71DA" rx="5"/>
-  <text x="470" y="55" font-size="14" fill="#333">30%</text>
-  <text x="10" y="55" font-size="14" fill="#333" font-weight="bold">⏰ Quản lý thời gian</text>
-
-  <!-- Giao tiếp (40%) -->
-  <rect x="10" y="80" width="450" height="20" fill="#eee" rx="5"/>
-  <rect x="10" y="80" width="180" height="20" fill="#FFD1F3" rx="5"/>
-  <text x="470" y="95" font-size="14" fill="#333">40%</text>
-  <text x="10" y="95" font-size="14" fill="#333" font-weight="bold">🗣️ Giao tiếp</text>
-
-  <!-- Ngoại ngữ (50%) -->
-  <rect x="10" y="120" width="450" height="20" fill="#eee" rx="5"/>
-  <rect x="10" y="120" width="225" height="20" fill="#CCF6FF" rx="5"/>
-  <text x="470" y="135" font-size="14" fill="#333">50%</text>
-  <text x="10" y="135" font-size="14" fill="#333" font-weight="bold">🌐 Ngoại ngữ</text>
-
-  <!-- Làm việc nhóm (60%) -->
-  <rect x="10" y="160" width="450" height="20" fill="#eee" rx="5"/>
-  <rect x="10" y="160" width="270" height="20" fill="#C7EF8E" rx="5"/>
-  <text x="470" y="175" font-size="14" fill="#333">60%</text>
-  <text x="10" y="175" font-size="14" fill="#333" font-weight="bold">👥 Làm việc nhóm</text>
-
-  <!-- Sáng tạo (70%) -->
-  <rect x="10" y="200" width="450" height="20" fill="#eee" rx="5"/>
-  <rect x="10" y="200" width="315" height="20" fill="#0066FF" rx="5"/>
-  <text x="470" y="215" font-size="14" fill="#333">70%</text>
-  <text x="10" y="215" font-size="14" fill="#333" font-weight="bold">🎨 Sáng tạo</text>
-
-</svg>
-
+| Kỹ Năng | Tỷ Lệ | Thanh Tiến Trình |
+| :--- | :---: | :--- |
+| **Quản lý thời gian** ⏱️ | 30% | <div style="width: 100%; background-color: #f1f1f1; border-radius: 4px; overflow: hidden;"><div style="width: 30%; background-color: #FFDFE3; color: #333; height: 20px; text-align: right; line-height: 20px; padding-right: 5px; font-weight: bold; border-radius: 4px;"></div></div> |
+| **Giao tiếp** 💬 | 40% | <div style="width: 100%; background-color: #f1f1f1; border-radius: 4px; overflow: hidden;"><div style="width: 40%; background-color: #CCF6FF; color: #333; height: 20px; text-align: right; line-height: 20px; padding-right: 5px; font-weight: bold; border-radius: 4px;"></div></div> |
+| **Ngoại ngữ** 🌍 | 50% | <div style="width: 100%; background-color: #f1f1f1; border-radius: 4px; overflow: hidden;"><div style="width: 50%; background-color: #C7EF8E; color: #333; height: 20px; text-align: right; line-height: 20px; padding-right: 5px; font-weight: bold; border-radius: 4px;"></div></div> |
+| **Làm việc nhóm** 🤝 | 60% | <div style="width: 100%; background-color: #f1f1f1; border-radius: 4px; overflow: hidden;"><div style="width: 60%; background-color: #FF71DA; color: #333; height: 20px; text-align: right; line-height: 20px; padding-right: 5px; font-weight: bold; border-radius: 4px;"></div></div> |
+| **Sáng tạo** ✨ | 70% | <div style="width: 100%; background-color: #f1f1f1; border-radius: 4px; overflow: hidden;"><div style="width: 70%; background-color: #0066FF; color: #fff; height: 20px; text-align: right; line-height: 20px; padding-right: 5px; font-weight: bold; border-radius: 4px;"></div></div> |
 
 ### Ngoài ra còn có kiến thức về:
 - Công cụ đồ họa: Adobe Illustrator, Adobe Photoshop, 3dsmax, Figma 
