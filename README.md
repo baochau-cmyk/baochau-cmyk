@@ -46,49 +46,43 @@
 | Tin học văn phòng            | ⭐⭐⭐☆☆           |
 | Làm việc nhóm                | ⭐⭐⭐⭐☆           |
 
-<div align="center">
+<!-- Soft Skills Bar Chart (SVG version, fully compatible with GitHub README) -->
+<svg width="500" height="220" xmlns="http://www.w3.org/2000/svg">
 
-<!-- Giao tiếp -->
-<div style="margin: 10px 0; text-align: left; width: 80%;">
-  <b>Giao tiếp</b> (40%)
-  <div style="background-color:#eee; border-radius: 10px; height: 20px; width: 100%;">
-    <div style="background-color:#FFD1F3; height: 20px; width:40%; border-radius: 10px;"></div>
-  </div>
-</div>
+  <!-- Title -->
+  <text x="10" y="20" font-size="18" font-weight="bold" fill="#333">Kỹ năng mềm</text>
 
-<!-- Ngoại ngữ -->
-<div style="margin: 10px 0; text-align: left; width: 80%;">
-  <b>Ngoại ngữ</b> (50%)
-  <div style="background-color:#eee; border-radius: 10px; height: 20px; width: 100%;">
-    <div style="background-color:#CCF6FF; height: 20px; width:50%; border-radius: 10px;"></div>
-  </div>
-</div>
+  <!-- Quản lý thời gian (30%) -->
+  <rect x="10" y="40" width="450" height="20" fill="#eee" rx="5"/>
+  <rect x="10" y="40" width="135" height="20" fill="#FF71DA" rx="5"/>
+  <text x="470" y="55" font-size="14" fill="#333">30%</text>
+  <text x="10" y="55" font-size="14" fill="#333" font-weight="bold">⏰ Quản lý thời gian</text>
 
-<!-- Làm việc nhóm -->
-<div style="margin: 10px 0; text-align: left; width: 80%;">
-  <b>Làm việc nhóm</b> (60%)
-  <div style="background-color:#eee; border-radius: 10px; height: 20px; width: 100%;">
-    <div style="background-color:#C7EF8E; height: 20px; width:60%; border-radius: 10px;"></div>
-  </div>
-</div>
+  <!-- Giao tiếp (40%) -->
+  <rect x="10" y="80" width="450" height="20" fill="#eee" rx="5"/>
+  <rect x="10" y="80" width="180" height="20" fill="#FFD1F3" rx="5"/>
+  <text x="470" y="95" font-size="14" fill="#333">40%</text>
+  <text x="10" y="95" font-size="14" fill="#333" font-weight="bold">🗣️ Giao tiếp</text>
 
-<!-- Quản lý thời gian -->
-<div style="margin: 10px 0; text-align: left; width: 80%;">
-  <b>Quản lý thời gian</b> (30%)
-  <div style="background-color:#eee; border-radius: 10px; height: 20px; width: 100%;">
-    <div style="background-color:#FF71DA; height: 20px; width:30%; border-radius: 10px;"></div>
-  </div>
-</div>
+  <!-- Ngoại ngữ (50%) -->
+  <rect x="10" y="120" width="450" height="20" fill="#eee" rx="5"/>
+  <rect x="10" y="120" width="225" height="20" fill="#CCF6FF" rx="5"/>
+  <text x="470" y="135" font-size="14" fill="#333">50%</text>
+  <text x="10" y="135" font-size="14" fill="#333" font-weight="bold">🌐 Ngoại ngữ</text>
 
-<!-- Sáng tạo -->
-<div style="margin: 10px 0; text-align: left; width: 80%;">
-  <b>Sáng tạo</b> (70%)
-  <div style="background-color:#eee; border-radius: 10px; height: 20px; width: 100%;">
-    <div style="background-color:#0066FF; height: 20px; width:70%; border-radius: 10px;"></div>
-  </div>
-</div>
+  <!-- Làm việc nhóm (60%) -->
+  <rect x="10" y="160" width="450" height="20" fill="#eee" rx="5"/>
+  <rect x="10" y="160" width="270" height="20" fill="#C7EF8E" rx="5"/>
+  <text x="470" y="175" font-size="14" fill="#333">60%</text>
+  <text x="10" y="175" font-size="14" fill="#333" font-weight="bold">👥 Làm việc nhóm</text>
 
-</div>
+  <!-- Sáng tạo (70%) -->
+  <rect x="10" y="200" width="450" height="20" fill="#eee" rx="5"/>
+  <rect x="10" y="200" width="315" height="20" fill="#0066FF" rx="5"/>
+  <text x="470" y="215" font-size="14" fill="#333">70%</text>
+  <text x="10" y="215" font-size="14" fill="#333" font-weight="bold">🎨 Sáng tạo</text>
+
+</svg>
 
 
 ### Ngoài ra còn có kiến thức về:
