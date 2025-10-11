@@ -83,7 +83,7 @@ pie
    
 <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/hinhdong.png"/> Xem sản phẩm tại đây: [Thiết kế hình động/facebook.com](https://www.facebook.com/bao.chau.997306/videos/437898679390990)
 
-   ### Đồ án kết thúc học phần Dựng phim, audio phi tuyến tính
+   ### Đồ án kết thúc học phần Dựng audio và video phi tuyến tính
    - Say you do - Tiên Tiên (MV Remake)
    - Vai trò: Script writer, Director, Art Director, Camera crew, Stylist
    
