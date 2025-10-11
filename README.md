@@ -13,7 +13,7 @@
 - Mình là sinh viên chuyên ngành Thiết kế Đa phương tiện
 - Theo học tại Học viện Công nghệ Bưu chính Viễn thông, Cơ sở quận 9, TP. Hồ Chí Minh  
 
---- 
+
 
 ## Contact me
 
@@ -22,7 +22,7 @@
 - <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/instagram.png" width="20" style="vertical-align:middle;"/> [@joey.peony](https://www.instagram.com/joey.peony)  
 - <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/behance.png" width="20" style="vertical-align:middle;"/> [behance.net/joeybaochau](https://www.behance.net/chuchu97)  
  
----
+
 
 ## Trình độ học vấn
 
@@ -32,7 +32,7 @@
   - 3 kỳ đạt trên 3.4/4.0 (Loại Giỏi)  
   - 1 kỳ đạt trên 3.25/4.0 (Loại Giỏi)  
 
----
+
 
 ## Kỹ năng
 
@@ -68,7 +68,7 @@ pie
 #### Kiến thức nền tảng chuyên ngành
 - Kiến thức nền tảng:
   ![Branding Identity](https://img.shields.io/badge/Branding%20Identity-E73E8A?style=flat&logo=handshake&logoColor=white)
----
+
 
 ## Dự án cá nhân
 
@@ -100,7 +100,7 @@ pie
 | **🧠 Học hỏi & Tư duy** | Đọc phân tích về các case study Branding/Marketing. Nghiên cứu phát triển Bộ nhận diện thương hiệu. Nghe podcast/Youtube về giáo dục, tài chính, tư duy (VIETSUCCESS, Vietcetera). |
 | **🧘 Giải trí & Cảm hứng** | Đọc thơ, viết lách, vẽ tranh, nghe nhạc (cổ điển/Jazz). Xem video đáng yêu về động vật. |
 
----
+
 
 ## 🚀 Trải Nghiệm Nổi Bật
 
@@ -110,7 +110,7 @@ pie
 | **🏆 Lãnh đạo & Giải thưởng** | Đạt giải Khuyến Khích nhóm cuộc thi **STEM** cấp THPT (Trị giá 1.500.000 VNĐ). Từng là Ban cán sự lớp THCS & THPT. |
 | **🤝 Kỹ năng Teamwork** | **Điều phối, Quản lý & Phê duyệt Nội dung** trong các dự án học thuật (THCS - ĐH). |
 
----
+
 
 ## 🌟 Mục Tiêu Nghề Nghiệp
 
@@ -123,14 +123,14 @@ pie
 - 🏢 Ước mơ được làm việc tại **Vinamilk** hoặc **Thành lập Agency** chuyên về Branding.
 - 🌱 Dùng kỹ năng để **đóng góp vào các dự án cộng đồng** & chia sẻ kiến thức nghề nghiệp.
 - 🐾 Trở thành **Tình nguyện viên** của tổ chức bảo vệ động vật hoang dã.
----
+
 
 ## 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baochau-cmyk&show_icons=true&theme=tokyonight&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baochau-cmyk&theme=tokyonight&hide_border=true)  
 
----
+
 
 ### ✨ Quote
 
