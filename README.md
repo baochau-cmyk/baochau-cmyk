@@ -119,7 +119,6 @@ Gian hàng Nông sản và thực phẩm chế biến hữu cơ - Thực hiện 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baochau-cmyk&show_icons=true&theme=tokyonight&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baochau-cmyk&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baochau-cmyk&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
