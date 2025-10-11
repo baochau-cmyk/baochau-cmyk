@@ -89,7 +89,7 @@ pie
    - Vai trò: Script writer, Director, Art Director, Camera crew, Stylist
    
 <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/thumb1.png"/>
-- Xem sản phẩm tại đây: [Say you do remake/facebook.com](https://www.facebook.com/bao.chau.997306/videos/726893959906067)
+- Xem sản phẩm tại đây: [facebook.com/sayyoudo-remake](https://www.facebook.com/bao.chau.997306/videos/726893959906067)
 
 
 ## ✨ Sở Thích & Quan Điểm
