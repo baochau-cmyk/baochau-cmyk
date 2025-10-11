@@ -81,8 +81,7 @@ pie
   
    - Vai trò: Character Design
    
-<img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/hinhdong.png"/>
-- Xem sản phẩm tại đây: [Thiết kế hình động/facebook.com](https://www.facebook.com/bao.chau.997306/videos/437898679390990)
+<img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/hinhdong.png"/> Xem sản phẩm tại đây: [Thiết kế hình động/facebook.com](https://www.facebook.com/bao.chau.997306/videos/437898679390990)
 
    ### Đồ án kết thúc học phần Dựng phim, audio phi tuyến tính
    - Say you do - Tiên Tiên (MV Remake)
